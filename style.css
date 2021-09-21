@@ -1,0 +1,35 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px aqua;
+}
+
+.note
+{
+    font-size: 15px;
+    color: blue;
+}
+
+.footer
+{
+    position: fixed;
+    background-color: blueviolet;
+    color: chocolate;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+canvas
+{
+    border: 5px solid sandybrown;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px salmon;
+}
+
+body
+{
+background-size: cover;
+}
